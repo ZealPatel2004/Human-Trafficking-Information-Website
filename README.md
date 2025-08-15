@@ -23,11 +23,16 @@ The site aims to:
 - Showcase the potential of AI in detection, disruption, and prevention
 - Provide actionable insights for policymakers, NGOs, technologists, and the public
 
+
+## Live Website
+Access the live site here: [https://lively-sorbet-6e228e.netlify.app/](https://lively-sorbet-6e228e.netlify.app/)
+
 ## How to Use
-Simply open `index.html` in your browser to explore the content. The site is organized into clear sections for easy navigation.
+You can open `index.html` in your browser locally, or visit the live link above. The site is organized into clear sections for easy navigation.
 
 ## License
 This project is for educational and advocacy purposes. Please credit the original author if you reuse or adapt the content.
 
 ---
 For questions or contributions, please open an issue or submit a pull request.
+
